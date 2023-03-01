@@ -1,0 +1,28 @@
+{
+	"rows": [
+		{
+			"name": "Alice",
+			"age": 25,
+			"marks": 90,
+			"country": "United Kingdom"
+		},
+		{
+			"name": "Bob",
+			"age": 28,
+			"marks": 85,
+			"country": "Australia"
+		},
+		{
+			"name": "Charles",
+			"age": 23,
+			"marks": 68,
+			"country": "Denmark"
+		},
+		{
+			"name": "Frank",
+			"age": 24,
+			"marks": 70,
+			"country": "India"
+		}
+	]
+}

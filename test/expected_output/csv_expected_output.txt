@@ -1,0 +1,5 @@
+name,age,marks,country
+"Alice",25,90,"United Kingdom"
+"Bob",28,85,"Australia"
+"Charles",23,68,"Denmark"
+"Frank",24,70,"India"
