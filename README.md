@@ -24,3 +24,11 @@ output will look for supported formats.
 - Removing or adding particular fields to the table can be done using table_extend_columns().
 If string (field name) passed to the function begins with '-' field will be removed, if it
 begins with '+' field will be added.
+
+## Contributors
+	Grzegorz Prajsner <grzegorz.prajsner@ionos.com>
+	Danil Kipnis <danil.kipnis@ionos.com>
+	Supriti Singh <supriti.singh@ionos.com>
+	Florian-Ewald Mueller <florian-ewald.mueller@ionos.com>
+	Moritz Wagner <moritz.wagner@ionos.com>
+	Vaishali Thakkar <vaishali.thakkar@ionos.com>
